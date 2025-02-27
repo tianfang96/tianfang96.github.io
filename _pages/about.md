@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a fourth-year Ph.D. Candidate of Electrical and Computer Engineering at Rutgers, The State University of New Jersey, New Brunswick, advised by Prof. Yingying Chen<url>https://www.winlab.rutgers.edu/~yychen/<\url>. I obtained my Master's degree of Computer Science at Rutgers, the State University of New Jersey, New Brunswick, and Bachelor's degree of Information Security from Huazhong University of Science and Technology, Wuhan. My research interests include security and privacy for mobile systems, robust and trustworthy ML/AI Systems, mobile sensing and computing, and smart and mobile healthcare.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<font color="#FF0000">I am on the job market in the 2024-2025 cycle, please feel free to reach out!</font>
 
 A data-driven personal website
 ======
