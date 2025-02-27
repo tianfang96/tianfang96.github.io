@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianfang's Personal Website"
+title: "About Myself"
 author_profile: true
 redirect_from: 
   - /about/
