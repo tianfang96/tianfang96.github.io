@@ -20,4 +20,5 @@ Research Interest
 News
 ----------
 - [11/2024] I will be on the job market in the 2024-2025 cycle. Please feel free to reach out!
-- [11/2024] Our work 'Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram' will be appear in ACM MobiCom 2024. See you in Washington D.C.! 
+- [11/2024] Our work on backdoor attacks against voice assistant systems 'Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram' will appear in ACM MobiCom 2024. See you in Washington D.C.!
+- [10/2024] Our work on AR/VR user authentication via viseme profiling 'SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures' will appear in ACM CCS 2024. See you in Salt Lake City! 
