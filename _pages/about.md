@@ -12,7 +12,7 @@ I am currently a fourth-year Ph.D. Candidate of Electrical and Computer Engineer
 
 Research Interest
 ----------
-- Security and privacy for mobile systems (e.g., AR/VR systems([Mobicom 2021](https://www.winlab.rutgers.edu/~yychen/papers/FaceMic.pdf)), wireless and mobile sensing systems)
+- Security and privacy for mobile systems (e.g., AR/VR systems([MobiCom 2021](https://www.winlab.rutgers.edu/~yychen/papers/FaceMic.pdf),[S&P 2023](https://eceweb1.rutgers.edu/~daisylab/papers/Privacy%20Leakage%20via%20Unrestricted%20Motion-Position%20Sensors%20in%20the%20Age%20of%20Virtual%20Reality.pdf), [CCS 2023](https://web.njit.edu/~cs638/paper/FaceReader%20Unobtrusively%20Mining%20Vital%20Signs%20and%20Vital%20Sign%20Embedded%20Sensitive%20Info%20via%20ARVR%20Motion%20Sensors.pdf), [CCS 2024](https://www.winlab.rutgers.edu/~yychen/daisylab/papers/SAFARI%20Speech-Associated%20Facial%20Authentication%20for%20ARVR%20Settings%20via%20Robust%20VIbration%20Signatures.pdf)), wireless and mobile sensing systems)
 - Robust and trustworthy ML/AI systems (e.g., deep-learning-enabled voice assistant systems)
 - Mobile sensing and computing
 - Smart and mobile healthcare 
