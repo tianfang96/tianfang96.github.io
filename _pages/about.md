@@ -20,3 +20,4 @@ Research Interest
 News
 ----------
 - [11/2024] I will be on the job market in the 2024-2025 cycle. Please feel free to reach out!
+- [11/2024] Our work 'Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram' will be appear in ACM MobiCom 2024. See you in Washington D.C.! 
