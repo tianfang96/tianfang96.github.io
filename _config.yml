@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Tianfang's Homepage"
 title_separator          : "-"
-name                     : &name "Tianfang Zhang (张天放)"
+name                     : &name "Tianfang Zhang"
 description              : &description "PhD Candidate, Electrical and Computer Engineering, Rutgers University"
 url                      : https://tianfang96.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "tianfang96/tianfang96.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Tianfang Zhang (张天放)"
+  name             : "Tianfang Zhang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate of Electrical and Computer Engineering"
   location         : "New Jersey"
