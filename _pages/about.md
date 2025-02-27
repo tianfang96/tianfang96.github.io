@@ -11,7 +11,12 @@ I am currently a fourth-year Ph.D. Candidate of Electrical and Computer Engineer
 <font color='red'> I am on the job market in the 2024-2025 cycle, please feel free to reach out! </font>
 
 Research Interest
------
+----------
+- Security and privacy for mobile systems (e.g., AR/VR systems, wireless and mobile sensing systems)
+- Robust and trustworthy ML/AI systems (e.g., deep-learning-enabled voice assistant systems)
+- Mobile sensing and computing
+- Smart and mobile healthcare 
+
 My research interests include security and privacy for mobile systems, robust and trustworthy ML/AI Systems, mobile sensing and computing, and smart and mobile healthcare.
 
 A data-driven personal website
