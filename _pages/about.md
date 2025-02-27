@@ -20,7 +20,7 @@ Research Interest
 News
 ----------
 - [11/2024] I will be on the job market in the 2024-2025 cycle. Please feel free to reach out!
-- [11/2024] Our work on backdoor attacks against voice assistant systems 'Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram' will appear in ACM MobiCom 2024. See you in Washington D.C.!
-- [10/2024] Our work on AR/VR user authentication via viseme profiling 'SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures' will appear in ACM CCS 2024. See you in Salt Lake City!
-- [10/2024] Our work on user authentication via palm biometric profiling 'mmPalm: Unlocking Ubiquitous User Authentication through Palm Recognition with mmWave Signals' won the best paper runner up of IEEE CNS 2024. Congrats to the team!
-- [11/2023] Two papers will appear in ACM CCS 2023. One work 'FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors' focuses on a novel privacy attack in AR/VR systems and the other 'Privacy Leakage via Speech-induced Vibrations on Room Objects through Remote Sensing based on Phased-MIMO' explores speech eavesdropping attack via mmWave sensing. 
+- [11/2024] Our work on backdoor attacks against voice assistant systems **Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram** will appear in ACM MobiCom 2024. See you in Washington D.C.!
+- [10/2024] Our work on AR/VR user authentication via viseme profiling **SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures** will appear in ACM CCS 2024. See you in Salt Lake City!
+- [10/2024] Our work on user authentication via palm biometric profiling **mmPalm: Unlocking Ubiquitous User Authentication through Palm Recognition with mmWave Signals** won the best paper runner up of IEEE CNS 2024. Congrats to the team!
+- [11/2023] Two papers will appear in ACM CCS 2023. One work **FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors** focuses on a novel privacy attack in AR/VR systems and the other **Privacy Leakage via Speech-induced Vibrations on Room Objects through Remote Sensing based on Phased-MIMO** explores speech eavesdropping attack via mmWave sensing. 
