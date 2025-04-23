@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am currently a fourth-year Ph.D. Candidate of Electrical and Computer Engineering at Rutgers, The State University of New Jersey, New Brunswick, advised by [Prof. Yingying (Jennifer) Chen](https://www.winlab.rutgers.edu/~yychen/) (Fellow of IEEE, ACM, AAIA, NAI). I obtained my Master's degree of Computer Science at Rutgers, the State University of New Jersey, New Brunswick, and my Bachelor's degree of Information Security from Huazhong University of Science and Technology, Wuhan. 
 
-<font color='red'> I am on the job market in the 2024-2025 cycle, please feel free to reach out! </font>
+<font color='red'> I will be joining the Department of Computer Science at University of Massachusetts Boston as an Assistant Professor starting Fall 2025. I am actively looking for self-motivated Ph.D. students interested in working on security and privacy in mobile systems. If you're passionate about these areas, feel free to contact me via my email address (tianfangz96@gmail.com)! </font>
 
 Research Interest
 ----------
@@ -19,6 +19,7 @@ Research Interest
 
 News
 ----------
+- [04/2025] I will be joining the Department of Computer Science at University of Massachusetts Boston as an Assistant Professor starting Fall 2025.
 - [11/2024] I will be on the job market in the 2024-2025 cycle. Please feel free to reach out!
 - [11/2024] Our work on backdoor attacks against voice assistant systems **'Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram'** will appear in ACM MobiCom 2024. See you in Washington D.C.!
 - [10/2024] Our work on AR/VR user authentication via viseme profiling **'SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures'** will appear in ACM CCS 2024. See you in Salt Lake City!
