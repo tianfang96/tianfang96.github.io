@@ -19,6 +19,7 @@ Research Interest
 
 News
 ----------
+- [10/2025] Our work on AR/VR user authentication **'Harnessing Vital Sign Vibration Harmonics for Effortless and Inbuilt XR User Authentication'** received the ** Distinguished Paper Award ** in ACM CCS 2025. Thank all collaborators for the efforts and valuable guidance! 
 - [07/2025] Our work on AR/VR user authentication **'Harnessing Vital Sign Vibration Harmonics for Effortless and Inbuilt XR User Authentication'** will appear in ACM CCS 2025. More details coming soon! 
 - [11/2024] Our work on backdoor attacks against voice assistant systems **'Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram'** will appear in ACM MobiCom 2024. See you in Washington D.C.!
 - [10/2024] Our work on AR/VR user authentication via viseme profiling **'SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures'** will appear in ACM CCS 2024. See you in Salt Lake City!
